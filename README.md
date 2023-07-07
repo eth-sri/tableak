@@ -5,7 +5,7 @@ The code will be released soon. For any questions, please feel free to contact t
 
 ------
 **Authors**:<br>
-Mark Vero, mveroe@ethz.ch<br>
+Mark Vero, mark.vero@inf.ethz.ch<br>
 Mislav Balunović, mislav.balunovic@inf.ethz.ch<br>
 Dimitar I. Dimitrov, dimitar.iliev.dimitrov@inf.ethz.ch<br>
 Martin Vechev, martin.vechev@inf.ethz.ch
