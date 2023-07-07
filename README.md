@@ -1,7 +1,7 @@
 # TabLeak: Tabular Data Leakage in Federated Learning
 
 This is the accompanying code repository to the paper "TabLeak: Tabular Data Leakage in Federated Learning", to be presented at ICML 2023.
-The code will be released soon. For any question, please feel free to contact the authors.
+The code will be released soon. For any questions, please feel free to contact the authors.
 
 ------
 **Authors**:<br>
