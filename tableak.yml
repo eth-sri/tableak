@@ -1,0 +1,15 @@
+name: tableak
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.8
+  - matplotlib
+  - scipy
+  - numpy
+  - jupyterlab
+  - ipywidgets
+  - scikit-learn
+  - pandas
+  - pytorch=1.6.0
+  - torchvision=0.7.0
