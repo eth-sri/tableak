@@ -32,7 +32,8 @@ The provided repository is self-contained, in particular, it also contains the d
 once the environment is set up, the code can be run from the unzipped repository without the need of any further setup 
 or downloads.
 
-**Note**: Due to file size issues the Health Heritage dataset is currently **not included** in the repository. We are working on a solution and will update the code accordingly.
+### Raw Dataset Data 
+All raw data files are included in the repository, except for the files of the Health Heritage Prize dataset, as it is over the size limit of GitHub. The required raw data for the Health Heritage dataset can be downloaded from [here](https://files.sri.inf.ethz.ch/tableak/Health_Heritage/). Please, download the files and place them on the path `datasets/Health_Heritage`.
 
 ## Usage of TabLeak
 Here, we give a minimal example in python on how to mount an attack and calculate its accuracy with our code. The example is ready to be run in `example.py`.
