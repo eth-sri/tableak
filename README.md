@@ -99,7 +99,7 @@ First we give some general instructions and later give concrete guidance on repr
 - Adult census dataset [1]: `'ADULT'`
 - German Credit dataset [1]: `'German'`
 - Lawschool Admission dataset [2]: `'Lawschool'`
-- Health Heritage datasset [3]: `'HealthHeritage'` (not available at the moment, see note above)
+- Health Heritage datasset [3]: `'HealthHeritage'`
 
 Further, a random seed `random_seed`, a number of samples (monte carlo repetitions, i.e., number of independently 
 reconstructed batches) `n_samples`, the number of available 
