@@ -6,7 +6,7 @@ Our group has published several other works on attacking federated learning syst
  - [Bayesian Framework for Gradient Leakage](https://arxiv.org/abs/2111.04706), Balunović et al., ICLR 2022
  - [Lamp: Extracting text from gradients with language model priors](https://arxiv.org/abs/2202.08827), Balunović et al., NeurIPS 2022
  - [Data leakage in federated averaging](https://openreview.net/forum?id=e7A0B99zJf&noteId=6wc4VYeT6N), Dimitrov et al., TMLR 2022
- - [Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning](https://arxiv.org/abs/2306.03013), Garov et al., Arxiv preprint 2023
+ - [Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning](https://arxiv.org/abs/2306.03013), Garov et al., ICLR 2024
 
 ## Installation Guide and Requirements
 
